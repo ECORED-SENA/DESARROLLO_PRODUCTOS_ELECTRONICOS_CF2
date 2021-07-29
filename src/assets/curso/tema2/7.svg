@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256.607" height="116.403" viewBox="0 0 256.607 116.403">
+  <g id="Grupo_99551" data-name="Grupo 99551" transform="translate(-676.034 -2387.597)">
+    <path id="Polígono_20" data-name="Polígono 20" d="M32.5,0,65,56H0Z" transform="translate(834.5 2398.5) rotate(90)" fill="#12263f"/>
+    <path id="Trazado_104009" data-name="Trazado 104009" d="M-6282.966-9269h256.607" transform="translate(6959 11700)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <path id="Trazado_104010" data-name="Trazado 104010" d="M-6127.232-9312.4v86.127" transform="translate(6959 11700)" fill="none" stroke="#12263f" stroke-width="2"/>
+    <text id="ánodo" transform="translate(696 2418)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ánodo</tspan></text>
+    <text id="Cátodo" transform="translate(848 2418)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Cátodo</tspan></text>
+    <text id="A" transform="translate(719 2463)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">A</tspan></text>
+    <text id="K" transform="translate(870 2463)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">K</tspan></text>
+    <text id="_B_" data-name="(B)" transform="translate(788 2499)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">(b)</tspan></text>
+  </g>
+</svg>

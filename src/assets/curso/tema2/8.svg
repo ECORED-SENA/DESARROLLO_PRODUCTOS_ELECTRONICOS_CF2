@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243" height="105" viewBox="0 0 243 105">
+  <g id="Grupo_99550" data-name="Grupo 99550" transform="translate(-685 -2575)">
+    <rect id="Rectángulo_33770" data-name="Rectángulo 33770" width="243" height="17" rx="8.5" transform="translate(685 2604)" fill="#c7c7c7"/>
+    <rect id="Rectángulo_33771" data-name="Rectángulo 33771" width="34" height="17" rx="8.5" transform="translate(685 2604)" fill="#ea7596"/>
+    <rect id="Rectángulo_33772" data-name="Rectángulo 33772" width="34" height="17" rx="8.5" transform="translate(894 2604)" fill="#ea7596"/>
+    <g id="Rectángulo_33773" data-name="Rectángulo 33773" transform="translate(736 2581)" fill="#1a1a1a" stroke="#707070" stroke-width="1">
+      <rect width="141" height="61" stroke="none"/>
+      <rect x="0.5" y="0.5" width="140" height="60" fill="none"/>
+    </g>
+    <rect id="Rectángulo_33774" data-name="Rectángulo 33774" width="16" height="61" transform="translate(832 2581)" fill="#9b9b9b"/>
+    <path id="Trazado_104011" data-name="Trazado 104011" d="M-6212.039-9033.769h119.313" transform="translate(6959 11667)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <text id="A" transform="translate(702 2594)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">A</tspan></text>
+    <text id="B" transform="translate(894 2594)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">B</tspan></text>
+    <text id="_C_" data-name="(C)" transform="translate(788 2675)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">(c)</tspan></text>
+  </g>
+</svg>
