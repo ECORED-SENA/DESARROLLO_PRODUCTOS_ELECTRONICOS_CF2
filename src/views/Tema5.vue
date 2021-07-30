@@ -31,7 +31,7 @@
               .h2.mb-0 Tutorial de uso EasyEDA
               p.mt-3 En el recurso pdf se describe y se indica el paso a paso de cómo empezar a usarlo.
             .col-sm-auto
-              a.boton.boton--b.color-acento-botones(:href="obtenerLink('')" target="_blank")
+              a.boton.boton--b.color-acento-botones(:href="obtenerLink('downloads/tutorialEasyEDA.pdf')" target="_blank")
                 span(style="color: #12263F !important;") Descargar
                 i.fas.fa-file-download(style="color: #12263F !important;")
 
