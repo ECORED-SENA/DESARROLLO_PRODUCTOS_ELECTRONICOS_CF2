@@ -23,7 +23,7 @@
           .p-5(style="background-color:#F3F9FF;border-radius:8px;" data-aos="fade-right")
             h4(data-aos="fade-up") Rectificador controlado de silicio SCR
 
-            p.mt-4(data-aos="fade-up") El tiristor más simple es el SCR (que viene de su nombre en inglés, Silicon Controlled Rectifier). Básicamente, es un diodo que cuenta con un tercer pin de compuerta que le sirve para hacer un control primario de su conducción; este pin se conoce como compuerta (gate).
+            p.mt-4(data-aos="fade-up") El tiristor más simple es el SCR (que viene de su nombre en inglés, #[em Silicon Controlled Rectifier]). Básicamente, es un diodo que cuenta con un tercer pin de compuerta que le sirve para hacer un control primario de su conducción; este pin se conoce como compuerta (#[em gate]).
 
             p.mt-3(data-aos="fade-up") Un SCR, como cualquier rectificador, requiere estar correctamente polarizado y superar el voltaje umbral, además de recibir un pequeño pulso de corriente y un mínimo voltaje a través de su compuerta. Estos datos usualmente los brinda el fabricante del dispositivo, pero a diferencia de los transistores, por ejemplo, él no requiere mantener esa corriente, es un disparo momentáneo que lo activa y, mientras sus demás condiciones de polarización entre ánodo y cátodo se mantengan, este se mantendrá conduciendo.
 

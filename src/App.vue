@@ -10,6 +10,7 @@
 </template>
 
 <script>
+import $ from 'jquery'
 export default {
   name: 'App',
   data: () => ({
@@ -20,10 +21,23 @@ export default {
       return this.$store.getters.isMenuOpen
     },
   },
+  beforeUpdate() {
+    $("a[href='#/curso/tema5']").html(
+      '<span><strong>5</strong></span><span><strong><em> Software</em> de simulación</strong></span>',
+    )
+  },
+  updated() {
+    $("a[href='#/curso/tema5']").html(
+      '<span><strong>5</strong></span><span><strong><em> Software</em> de simulación</strong></span>',
+    )
+  },
   mounted() {
     this.$aos.init({
       offset: 100,
     })
+    $("a[href='#/curso/tema5']").html(
+      '<span><strong>5</strong></span><span><strong><em> Software</em> de simulación</strong></span>',
+    )
   },
 }
 </script>

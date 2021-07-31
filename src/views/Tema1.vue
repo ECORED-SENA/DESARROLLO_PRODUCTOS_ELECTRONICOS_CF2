@@ -11,7 +11,7 @@
 
     figure.mt-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/lnEBUPkkrEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mt-5(data-aos="fade-up") Los elementos semiconductores se encuentran en medio de la balanza entre conductor y aislante. Cuentan usualmente con cuatro electrones de valencia y, bajo ciertas condiciones, pueden convertirse en un conductor o en un aislante; pero en su estado natural, resulta muy complejo controlar su comportamiento, por lo cual, en la producción de los componentes semiconductores que se utilizan en los equipos electrónicos, se hace necesario agregar una serie de impurezas a los materiales para lograr alterar sus propiedades y obtener un mayor control de sus propiedades conductoras o aislantes.
 
@@ -35,6 +35,7 @@
 
     figure.mt-4.col-md-3.m-auto
       img.image_floating(src="@/assets/curso/tema1/3.svg" data-aos="fade-up")
+      figcaption.mt-2(data-aos="fade-up") Nota. Tomada de Aranzabal (2001).
 
     .cajon.color-primario.p-5.mt-5.caja_flotante_azul
       p(data-aos="fade-up") Asimismo, de acuerdo con Aranzabal (2001): #[strong “El átomo trivalente sería un signo "-"] encerrado en un círculo y con un punto sin rellenar al lado (que simboliza un hueco).”

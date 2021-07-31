@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 5
-      h1  Software de simulación
+      h1 #[em Software] de simulación
 
     p(data-aos="fade-up") Actualmente, se pueden tener a la mano una serie de herramientas que facilitan los procesos de los departamentos de ingeniería de cualquier empresa, o que son también grandes aliados de las instituciones educativas, que permiten realizar simulaciones de circuitos electrónicos simples y complejos, dando la capacidad de evaluar el comportamiento de un circuito sin necesidad de contar con él físicamente y permitiendo hacer cambios y ajustes de manera muy sencilla.
 
@@ -15,11 +15,11 @@
           
         .col-lg-8
           .bloque-texto-a__texto.p-5.caja_escalada_hover(style="background-color: rgb(255 255 255 / 95%);")
-            p(data-aos="fade-up") En el pasado, antes de que existieran estos softwares, cuando se creaba un nuevo producto, era necesario ensamblar un prototipo de prueba y cualquier cambio o modificación implicaba una cantidad considerable de tiempo y dinero, al estar cambiando constantemente de componentes.
+            p(data-aos="fade-up") En el pasado, antes de que existieran estos #[em softwares], cuando se creaba un nuevo producto, era necesario ensamblar un prototipo de prueba y cualquier cambio o modificación implicaba una cantidad considerable de tiempo y dinero, al estar cambiando constantemente de componentes.
 
     p.mt-5(data-aos="fade-up") Aparte de las herramientas desarrolladas por grandes empresas para el diseño electrónico, existen herramientas online que nos permiten, con algunas limitaciones, simular circuitos electrónicos de manera sencilla y gratuita; estas son una gran herramienta en el aprendizaje y puesta en práctica de cualquier aprendiz de electrónica. A continuación, se expone una de las más populares en la actualidad: EasyEDA.
 
-    p.mt-3(data-aos="fade-up") Esta herramienta online permite simular circuitos electrónicos sencillos, así como crear proyectos para diseño de tarjetas impresas PCB. También tiene algunas características para el manejo de librerías y creación de componentes. Adicional a ello, tiene una versión descargable, también gratuita. Si se trabaja online, los proyectos son guardados en la nube del software.
+    p.mt-3(data-aos="fade-up") Esta herramienta online permite simular circuitos electrónicos sencillos, así como crear proyectos para diseño de tarjetas impresas PCB. También tiene algunas características para el manejo de librerías y creación de componentes. Adicional a ello, tiene una versión descargable, también gratuita. Si se trabaja online, los proyectos son guardados en la nube del #[em software].
 
     .tarjeta.text-white.p-3.mt-5.caja_flotante_azul.col-md-9.m-auto(data-aos="fade-up" style="background: linear-gradient(rgb(108 0 125), rgb(226 41 255))")
       .row.justify-content-around.align-items-center

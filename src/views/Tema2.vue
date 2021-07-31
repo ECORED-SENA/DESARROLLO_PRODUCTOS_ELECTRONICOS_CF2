@@ -64,12 +64,12 @@
         figure
           img.image_floating(data-aos="fade-up" src="@/assets/curso/tema2/8.svg")
 
-    figcaption.col-md-6.mt-3(data-aos="fade-up") Nota. Nota. (a) Unión PN (b) Símbolo estandarizado (c) Aspecto exterior típico
+    figcaption.col-md-6.mt-3(data-aos="fade-up") Nota. (a) Unión PN (b) Símbolo estandarizado (c) Aspecto exterior típico
 
     br
     br
     .titulo-segundo.mt-5
-      h2#t_2_1 2.1. El diodo ideal
+      h2#t_2_1 2.1 El diodo ideal
 
     p(data-aos="fade-up") Debido a las características propias del diodo como elemento semiconductor, se adoptan modelos específicos para el análisis que se hace de los diodos y su comportamiento en un circuito electrónico. El más simple es el conocido como diodo ideal, donde simplemente se determina que, dependiendo de la polarización del diodo, este conduce o no.
 
@@ -92,7 +92,7 @@
     br
     br
     .titulo-segundo.mt-5
-      h2#t_2_2 2.2. Circuitos con diodos
+      h2#t_2_2 2.2 Circuitos con diodos
 
     p(data-aos="fade-up") Se debe tener en cuenta que ningún diodo se comporta de manera ideal, este elemento posee una serie de características eléctricas que determinan su comportamiento y aplicación. Es importante tenerlas en cuenta a la hora de seleccionar o reemplazar un diodo en un circuito.
 
@@ -102,7 +102,7 @@
       figure
           img.image_floating(data-aos="fade-up" src="@/assets/curso/tema2/11.svg")
 
-    figcaption.mt-4.col-md-4 Nota. Nota. Adaptada de Arboledas, (2010)
+    figcaption.mt-4.col-md-4 Nota. Adaptada de Arboledas, (2010)
 
     p.mt-5(data-aos="fade-up") Gracias a las características propias y el comportamiento de los diodos, se estudian una serie de circuitos típicos con diodos que constituyen sus aplicaciones más destacadas.
 
@@ -130,7 +130,7 @@
     br
     br
     .titulo-segundo.mt-5
-      h2#t_2_3 2.3. Diodos de propósito especial
+      h2#t_2_3 2.3 Diodos de propósito especial
 
     p(data-aos="fade-up") Existen varios tipos de diodos, dependiendo de su propósito. Su principio de funcionamiento, en esencia, es el mismo, pero cada cual tiene unas particularidades que le permiten trabajar en aplicaciones diferentes, dependiendo de las necesidades de cada circuito. Los más destacados se muestran a continuación:
 
@@ -185,7 +185,7 @@
             figure
               img(src='@/assets/curso/tema2/18.svg', alt='')
 
-    figcaption.mt-4.col-md-5(data-aos="fade-up") Nota. Imágenes Tomadas de Arboledas (2010, p. 90)
+    figcaption.mt-4.col-md-5(data-aos="fade-up") Nota. Imágenes tomadas de Arboledas (2010, p. 90)
 
 
 

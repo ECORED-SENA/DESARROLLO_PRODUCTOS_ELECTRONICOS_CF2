@@ -48,13 +48,13 @@
         .col-md-12.mt-5
           p Al polarizar el transistor, se producen tres corrientes: una, la que ingresa por el terminal de base o corriente de base (IB), está la corriente de colector (IC) y la tercera es la corriente de emisor (IE), que realmente es la resultante de la suma de la corriente de base más corriente de colector; y son las corrientes las protagonistas en el funcionamiento del transistor, ya que al inyectar una pequeña corriente de base en el transistor se consigue que el transistor conduzca una gran corriente de collector, de tal forma que resulta en un pin de control. El pin de base de la corriente ingresa por el colector y sale por el emisor sumada a la pequeña corriente de base.
 
-        .row.col-md-10.p-3.mt-5(style="background-color:#00CCA7;border-radius:10px;")
+        //.row.col-md-10.p-3.mt-5(style="background-color:#00CCA7;border-radius:10px;")
           .col-md-8(style="place-self: center;")
             h5.mb-0 El transistor como interruptor
           .col-md-4(style="text-align:right;")
             a.boton.boton--b.color-acento-botones(@click="modal1 = true") Ver contenido
         
-        ModalA(:abrir-modal.sync="modal1")
+        //ModalA(:abrir-modal.sync="modal1")
           .p-3
             h4 El transistor como interruptor
             p.mt-4 Con base en el análisis de las corrientes y las caídas de voltaje asociadas a las cargas o resistencias presentes en un circuito típico de transistor, se tienen ciertas relaciones matemáticas de estas que se pueden observar a continuación.
@@ -66,7 +66,13 @@
 
       .row.p-4(titulo="El transistor como interruptor")
         .col-md-12
-          p Dependiendo de la relación entre el voltaje de colector emisor versus su corriente de colector resultante de la corriente de base que se inyecta, se puede determinar lo que se conoce como la zona de trabajo del transistor, de la cual pueden distinguirse al menos tres zonas de trabajo:
+          p.mt-4 Con base en el análisis de las corrientes y las caídas de voltaje asociadas a las cargas o resistencias presentes en un circuito típico de transistor, se tienen ciertas relaciones matemáticas de estas que se pueden observar a continuación.
+
+          p.p-1(style="padding-left:13px !important;border-left:4px #FFD947 solid;") #[strong Figura 17]  Relación de corrientes y voltajes en un circuito con transistor BJT tipo NPN.
+          figure.mt-3.col-md-10.m-auto
+            img(src='@/assets/curso/tema3/13.svg', alt='')
+
+          p.mt-5 Dependiendo de la relación entre el voltaje de colector emisor versus su corriente de colector resultante de la corriente de base que se inyecta, se puede determinar lo que se conoce como la zona de trabajo del transistor, de la cual pueden distinguirse al menos tres zonas de trabajo:
 
           p.mt-4 #[strong Zona activa,] en la cual el transistor tiende a amplificar la señal resultante gracias al efecto de la relación de corrientes.
           
@@ -78,6 +84,7 @@
           p.p-1(style="padding-left:13px !important;border-left:4px #FFD947 solid;") #[strong Figura 18] Zonas de trabajo del transistor BJT.
           figure.col-md-5.m-auto.mt-4
             img(src='@/assets/curso/tema3/14.svg', alt='')
+            figcaption.mt-2 Nota. Tomada de Aranzabal, (2001).
 
         .col-md-12.mt-5
           p Cuando el propósito es usar el transistor como un interruptor, el transistor estará operando entre las zonas de saturación y corte, de tal manera que la base del transistor tendrá un circuito o elemento, sensor, etc., que le permitirá regular su corriente lo suficiente para hacer que pase de un estado a otro, de conducir mucha corriente, comportándose como un interruptor cerrado, a que no pase prácticamente ninguna corriente, comportándose como un interruptor abierto.
@@ -117,7 +124,7 @@
     .titulo-segundo.mt-5
       h2#t_3_2 3.2 Transistor MOSFET
 
-    p(data-aos="fade-up") Los transistores MOSFET han ido reemplazando a los transistores bipolares en ciertos campos donde estos no resultaron tan eficientes. MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor, en inglés) es un transistor de efecto de campo metal-óxido-semiconductor. Este se diferencia del BJT porque no trabaja con la inyección de corriente en su pin de control, sino que depende de un nivel específico de voltaje, que genera un campo eléctrico, que le permite a este elemento semiconductor conducir corriente.
+    p(data-aos="fade-up") Los transistores MOSFET han ido reemplazando a los transistores bipolares en ciertos campos donde estos no resultaron tan eficientes. MOSFET (#[em Metal-Oxide-Semiconductor Field-Effect Transistor], en inglés) es un transistor de efecto de campo metal-óxido-semiconductor. Este se diferencia del BJT porque no trabaja con la inyección de corriente en su pin de control, sino que depende de un nivel específico de voltaje, que genera un campo eléctrico, que le permite a este elemento semiconductor conducir corriente.
 
     p.mt-3(data-aos="fade-up") Un transistor MOSFET cuenta con tres terminales: una es el surtidor, por donde generalmente ingresa la corriente que puede conducir el transistor cuando está correctamente polarizado; esta corriente pasa y sale por el drenador, que es la segunda; este paso de corriente es controlado por la compuerta, que es la tercera terminal y funciona como control de este dispositivo.
 
@@ -155,12 +162,12 @@
 
     p.mt-5(data-aos="fade-up") Al igual que con el transistor BJT, el MOSFET es ampliamente utilizado como un interruptor controlado eléctricamente, por lo cual también cuenta con una condición de saturación que le permite comportarse como un interruptor cerrado.
 
-    p.mt-5.p-1(style="padding-left:13px !important;border-left:4px #FFD947 solid;") #[strong Figura 18] Zonas de trabajo del transistor BJT.
+    p.mt-5.p-1(style="padding-left:13px !important;border-left:4px #FFD947 solid;") #[strong Figura 22] El transistor MOSFET en conmutación
     
     figure.col-md-9.m-auto.mt-5
       img.image_floating(data-aos="fade-up" src='@/assets/curso/tema3/12.svg', alt='')
     
-    figcaption.col-md-8.mt-3(data-aos="fade-up") Nota.  (a) En zona de saturación (b) En zona de corte. Tomada de Tutoriales de electrónica básica (s. f.).
+    figcaption.col-md-8.mt-3(data-aos="fade-up") Nota.  (a) En zona de saturación (b) En zona de corte. Tomada de tutoriales de electrónica básica (s. f.).
 
     h5.mt-5(data-aos="fade-up") Para lograr esa característica se deben cumplir algunas condiciones en la polarización:
 
