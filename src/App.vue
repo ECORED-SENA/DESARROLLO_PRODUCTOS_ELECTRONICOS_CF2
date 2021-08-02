@@ -22,12 +22,12 @@ export default {
     },
   },
   beforeUpdate() {
-    $("a[href='#/curso/tema5']").html(
+    $("a[href='#/curso/tema5']:first-child").html(
       '<span><strong>5</strong></span><span><strong><em> Software</em> de simulación</strong></span>',
     )
   },
   updated() {
-    $("a[href='#/curso/tema5']").html(
+    $("a[href='#/curso/tema5']:first-child").html(
       '<span><strong>5</strong></span><span><strong><em> Software</em> de simulación</strong></span>',
     )
   },
@@ -35,7 +35,7 @@ export default {
     this.$aos.init({
       offset: 100,
     })
-    $("a[href='#/curso/tema5']").html(
+    $("a[href='#/curso/tema5']:first-child").html(
       '<span><strong>5</strong></span><span><strong><em> Software</em> de simulación</strong></span>',
     )
   },

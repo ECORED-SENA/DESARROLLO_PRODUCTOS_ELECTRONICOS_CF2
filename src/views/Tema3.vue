@@ -46,7 +46,7 @@
             figcaption.mt-2 Nota. Tomada de Arboledas (2010, p.98).
 
         .col-md-12.mt-5
-          p Al polarizar el transistor, se producen tres corrientes: una, la que ingresa por el terminal de base o corriente de base (IB), está la corriente de colector (IC) y la tercera es la corriente de emisor (IE), que realmente es la resultante de la suma de la corriente de base más corriente de colector; y son las corrientes las protagonistas en el funcionamiento del transistor, ya que al inyectar una pequeña corriente de base en el transistor se consigue que el transistor conduzca una gran corriente de collector, de tal forma que resulta en un pin de control. El pin de base de la corriente ingresa por el colector y sale por el emisor sumada a la pequeña corriente de base.
+          p Al polarizar el transistor, se producen tres corrientes: una, la que ingresa por el terminal de base o corriente de base (IB), está la corriente de colector (IC) y la tercera es la corriente de emisor (IE), que realmente es la resultante de la suma de la corriente de base más corriente de colector; y son las corrientes las protagonistas en el funcionamiento del transistor, ya que al inyectar una pequeña corriente de base en el transistor se consigue que el transistor conduzca una gran corriente de colector, de tal forma que resulta en un pin de control. El pin de base de la corriente ingresa por el colector y sale por el emisor sumada a la pequeña corriente de base.
 
         //.row.col-md-10.p-3.mt-5(style="background-color:#00CCA7;border-radius:10px;")
           .col-md-8(style="place-self: center;")
