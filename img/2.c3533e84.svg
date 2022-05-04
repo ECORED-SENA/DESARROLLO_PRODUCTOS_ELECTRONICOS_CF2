@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="107.251" viewBox="0 0 185 107.251">
+  <g id="Grupo_99597" data-name="Grupo 99597" transform="translate(-1022 -1039.749)">
+    <path id="Trazado_104164" data-name="Trazado 104164" d="M-338.082-10374.984h129.167" transform="translate(1378 11443)" fill="none" stroke="#141414" stroke-width="2"/>
+    <path id="Trazado_104166" data-name="Trazado 104166" d="M-247.626-10361.645l29.693,14.8-4.158,29.178" transform="translate(1378 11443)" fill="none" stroke="#141414" stroke-width="2"/>
+    <path id="Trazado_104167" data-name="Trazado 104167" d="M-336.565-10335.407h23.341l24.909-12.588" transform="translate(1378 11443)" fill="none" stroke="#141414" stroke-width="2"/>
+    <path id="Trazado_104168" data-name="Trazado 104168" d="M-288.315-10335.407h22.488" transform="translate(1378 11443)" fill="none" stroke="#141414" stroke-width="2"/>
+    <path id="Trazado_104169" data-name="Trazado 104169" d="M-336.565-10313.607h70.523" transform="translate(1378 11443)" fill="none" stroke="#141414" stroke-width="2"/>
+    <path id="Trazado_104170" data-name="Trazado 104170" d="M-215.117-10648.288v51.353" transform="translate(1345 11688.037)" fill="none" stroke="#0a0a0a" stroke-width="2"/>
+    <path id="Polígono_38" data-name="Polígono 38" d="M8,0l8,15.127H0Z" transform="translate(1129.883 1060.016) rotate(90)"/>
+    <path id="Trazado_104171" data-name="Trazado 104171" d="M-279.3-10588.407l25.024-12.413" transform="translate(1344 11696)" fill="none" stroke="#6eb7f2" stroke-width="2"/>
+    <path id="Trazado_104172" data-name="Trazado 104172" d="M-336.565-10313.607h23.895" transform="translate(1401.269 11443)" fill="none" stroke="#ea7596" stroke-width="2"/>
+    <circle id="Elipse_4680" data-name="Elipse 4680" cx="3" cy="3" r="3" transform="translate(1063 1104)" fill="#6eb7f2"/>
+    <circle id="Elipse_4681" data-name="Elipse 4681" cx="3" cy="3" r="3" transform="translate(1063 1126)" fill="#ea7596"/>
+    <circle id="Elipse_4682" data-name="Elipse 4682" cx="3" cy="3" r="3" transform="translate(1086 1126)" fill="#ea7596"/>
+    <circle id="Elipse_4683" data-name="Elipse 4683" cx="3" cy="3" r="3" transform="translate(1086 1104)" fill="#6eb7f2"/>
+    <text id="Càtodo" transform="translate(1145 1061)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Càtodo</tspan></text>
+    <text id="Ánodo" transform="translate(1022 1061)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ánodo</tspan></text>
+    <text id="Puerta_G_" data-name="Puerta (G)" transform="translate(1133 1143)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Puerta (G)</tspan></text>
+  </g>
+</svg>

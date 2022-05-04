@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195.931" height="172.849" viewBox="0 0 195.931 172.849">
+  <g id="Grupo_99596" data-name="Grupo 99596" transform="translate(-578.069 -2888.665)">
+    <path id="Trazado_104013" data-name="Trazado 104013" d="M-6450.1-8654v-79.8h60.355l5.055-8.885,5.162,14.68,6.594-14.68,5.383,14.68,6.27-11.865,5.07,11.865,3.99-5.795h62.043v160.314H-6450.1v-73.3" transform="translate(7046 11634)" fill="none" stroke="#000" stroke-width="2"/>
+    <path id="Trazado_104014" data-name="Trazado 104014" d="M-6465.416-8420.389h35.662" transform="translate(7043.485 11400)" fill="none" stroke="#000" stroke-width="2"/>
+    <path id="Trazado_104015" data-name="Trazado 104015" d="M-6465.416-8420.389h22.222" transform="translate(7050.206 11408)" fill="none" stroke="#000" stroke-width="2"/>
+    <path id="Trazado_104016" data-name="Trazado 104016" d="M-6465.416-8420.389h35.662" transform="translate(7203.407 11417)" fill="none" stroke="#000" stroke-width="2"/>
+    <g id="Polígono_21" data-name="Polígono 21" transform="translate(774 2997) rotate(180)" fill="#fff">
+      <path d="M 34.26300048828125 30 L 1.737000346183777 30 L 18 1.991500496864319 L 34.26300048828125 30 Z" stroke="none"/>
+      <path d="M 18 3.982990264892578 L 3.473995208740234 29 L 32.52600479125977 29 L 18 3.982990264892578 M 18 0 L 36 31 L 0 31 L 18 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <path id="Unión_2" data-name="Unión 2" d="M6977.486,11781.954l-4.819,4.99-6.026-21.11,21.309,5.286-3.353,3.471c8.722,7.81,19.905,10.818,29.618,6.819,14.817-6.1,20.592-26.188,12.9-44.876s-25.937-28.895-40.754-22.795a24.03,24.03,0,0,0-10.257,8.128l-8.351-8.354a32.219,32.219,0,0,1,13.923-11.154c19.8-8.149,44.18,5.487,54.461,30.461s2.558,51.823-17.24,59.973a31.5,31.5,0,0,1-12.045,2.359C6996.536,11795.153,6985.995,11790.332,6977.486,11781.954Z" transform="translate(-6323.754 -8766.074)" fill="#ea7596"/>
+  </g>
+</svg>
