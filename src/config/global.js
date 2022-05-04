@@ -129,24 +129,20 @@ export default {
   referencias: [
     {
       referencia:
-        'Aranzabal, A. (2001). Electrónica básica. Curso de Electrónica Básica en Internet. Universidad del País Vasco.',
+        'Aranzabal, A. (2001). Electrónica básica. Curso de Electrónica Básica en Internet. Universidad del País Vasco. ',
       link: 'http://www.sc.ehu.es/sbweb/electronica/elec_basica/default.htm ',
     },
     {
-      referencia: 'Arboledas, D. (2010). Electrónica básica. RA-MA Editorial. ',
+      referencia:
+        'Arboledas Brihuega, D. (2010). Electrónica básica.. RA-MA Editorial. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1l2l4cd/TN_pq_ebook_centralEBC5758951 ',
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/106571',
     },
     {
       referencia:
         'Ingeniería Mecafenix. (2018). ¿Qué es un tiristor y cómo funciona? ',
       link:
         'https://www.ingmecafenix.com/electronica/que-es-un-tiristor-y-como-funciona/',
-    },
-    {
-      referencia:
-        'Tutoriales de electrónica básica. (s. f.). Tutoriales de electrónica básica. ',
-      link: 'http://tutorialesdeelectronicabasica.blogspot.com/',
     },
   ],
   glosario: [
@@ -184,10 +180,10 @@ export default {
   complementario: [
     {
       texto:
-        'López, A. y Martínez, A. (2011). Circuitos Electrónicos Básicos. Universidad de Alcalá.',
+        'López Dorado, A. (2011). Circuitos electrónicos básicos.. Editorial Universidad de Alcalá. ',
       tipo: 'Capítulo del libro',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1l2l4cd/TN_pq_ebook_centralEBC3200776',
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/53530',
     },
     {
       texto:
